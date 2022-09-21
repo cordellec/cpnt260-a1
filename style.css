@@ -1,0 +1,156 @@
+
+/* BTC TITLE*/
+
+h1 {
+
+letter-spacing: 5px;
+
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+
+font-size: 3rem;
+
+background-color: #E0B0FF;
+font-style: italic;
+border: 1px black none;
+border-radius: 25px;
+
+}
+
+
+/* MORE INFO*/ 
+
+h2 {
+
+  letter-spacing: 5px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+
+  font-size: 2rem;
+  background-color: #E0B0FF;
+  border: 1px black none;
+  border-radius: 25px;
+
+  text-transform: uppercase;
+ 
+}
+
+
+.header_wrapper {
+
+  max-width: 65ch;
+  margin: 0 auto;
+  padding-top: 0;
+  
+}
+
+
+/*Whole HTML body */
+
+body {
+
+  background-color: #FFDB58;
+  opacity: 0.8;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+
+/*paragraph */
+
+p {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+
+}
+
+
+/*centering the nav bar */
+
+
+.navibar_div {
+
+  display: table;
+  margin: 0 auto;
+  
+}
+
+.navibar_main li {
+
+    list-style: none;
+    text-align: center;
+    display: inline;
+
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+
+
+/*centering the list */
+
+.listcenter_div {
+
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.listcenter {
+  
+  justify-content: center;
+  text-align: left;
+  list-style-position: inside;
+  font-size: 16px; 
+  max-width: 65ch;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  padding: 20px;
+
+}
+
+.listcenter li {
+
+  padding-bottom: 10px;
+
+}
+
+
+
+/* Paragraph centering */
+
+.pcenter_div {
+
+  text-align: right;
+  margin: 0 auto;
+}
+
+
+.pcenter {
+
+display: flex;
+align-items: center;
+justify-content: center;
+margin: auto;
+padding: 20px;
+
+
+max-width: 65ch;
+}
+
+
+
+/* Wrapper */
+
+.wrapper {
+
+  max-width: 75ch;
+  margin: auto;
+
+}
+
