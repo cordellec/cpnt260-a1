@@ -2,7 +2,7 @@
 # CPNT260-A1
 
 Basic HTML & CSS website for Assignment:1 - Text Column
-Attribution links below in links
+(Attribution links below in links)
 
 
 
@@ -15,4 +15,3 @@ Attribution links below in links
 https://cordellec.github.io/cpnt260-a1/
 https://en.wikipedia.org/wiki/Bitcoin
 https://www.w3schools.com/howto/howto_css_topnav_centered.asp
-https://stackoverflow.com/questions/26973570/setting-a-max-character-length-in-css
